@@ -15,18 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="05-905-oop-project.cpp">
+    <ClCompile Include="lesson_02.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="Source.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
-    <ClCompile Include="Circle.cpp">
+    <ClCompile Include="Complex.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Circle.h">
+    <ClInclude Include="Complex.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
