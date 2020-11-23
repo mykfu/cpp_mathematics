@@ -15,6 +15,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson_05", "Lesson_05\Less
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "lesson_06", "lesson_06\lesson_06.vcxproj", "{866B4A69-5412-41FA-977D-189D0DD23EF6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CPP-CLI", "CPP-CLI\CPP-CLI.vcxproj", "{97D76559-E7E4-4550-8E12-6C5316E142DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -71,6 +73,14 @@ Global
 		{866B4A69-5412-41FA-977D-189D0DD23EF6}.Release|x64.Build.0 = Release|x64
 		{866B4A69-5412-41FA-977D-189D0DD23EF6}.Release|x86.ActiveCfg = Release|Win32
 		{866B4A69-5412-41FA-977D-189D0DD23EF6}.Release|x86.Build.0 = Release|Win32
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Debug|x64.ActiveCfg = Debug|x64
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Debug|x64.Build.0 = Debug|x64
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Debug|x86.ActiveCfg = Debug|Win32
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Debug|x86.Build.0 = Debug|Win32
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Release|x64.ActiveCfg = Release|x64
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Release|x64.Build.0 = Release|x64
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Release|x86.ActiveCfg = Release|Win32
+		{97D76559-E7E4-4550-8E12-6C5316E142DA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
